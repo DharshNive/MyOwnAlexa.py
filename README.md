@@ -2,7 +2,7 @@
 This is a simulation of Google assistant using python with advanced features.
 
 # About this project
-This is a smart google assistant developed using python. It can answer the traind questions, set alarm, sing a song, play songs from youtube, search for you in google.
+This is a smart google assistant developed using python. It can answer the trained questions, set alarm, sing a song, play songs from youtube, search for you in google.
 
 # Requirments
 
